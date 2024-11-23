@@ -91,14 +91,6 @@ The ensemble model, UncerGCN-FCN, outperforms both the individual GCN and FCNN m
 5. Pham, T. H., Qiu, Y., Zeng, J., Xie, L., & Zhang, P. (2021). A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing. *Nature Machine Intelligence*, 3(3), 247-257.
 6. Patel, L., Shukla, T., Huang, X., Ussery, D. W., & Wang, S. (2020). Machine learning methods in drug discovery. *Molecules*, 25(22), 5277.
 
-## 7. Appendix
-
-### Figures:
-- **Fig. 1**: GCNN and FCNN Loss Comparison
-- **Fig. 2**: GCNN and FCNN Mean Absolute Error
-- **Fig. 3**: UncerGCN-FCN Loss Curve
-- **Fig. 4**: UncerGCN-FCN Mean Absolute Error Curve
-
 ## Installation
 
 To run this project, you need to install the following dependencies:
